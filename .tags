@@ -1,0 +1,201 @@
+html	/Users/masaaki/daisuke-jissen/jissen.html	/^<html lang="ja">$/;"	function	line:2
+head	/Users/masaaki/daisuke-jissen/jissen.html	/^  <head>$/;"	function	line:3
+meta	/Users/masaaki/daisuke-jissen/jissen.html	/^    <meta charset="utf-8">$/;"	function	line:5
+meta	/Users/masaaki/daisuke-jissen/jissen.html	/^    <meta http-equiv="X-UA-Compatible" content="IE=edge">$/;"	function	line:6
+title	/Users/masaaki/daisuke-jissen/jissen.html	/^    <title>0からWEBサイトを作ってみよう<\/title>$/;"	function	line:7
+link	/Users/masaaki/daisuke-jissen/jissen.html	/^    <link href="https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.7.0\/css\/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">$/;"	function	line:9
+link	/Users/masaaki/daisuke-jissen/jissen.html	/^    <link rel="stylesheet" href="\/\/fonts.googleapis.com\/css?family=Dosis:300,400,500,600,700">$/;"	function	line:10
+link	/Users/masaaki/daisuke-jissen/jissen.html	/^    <link rel="stylesheet" href="jissen.css">$/;"	function	line:11
+body	/Users/masaaki/daisuke-jissen/jissen.html	/^  <body>$/;"	function	line:13
+header	/Users/masaaki/daisuke-jissen/jissen.html	/^    <header>$/;"	function	line:15
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^      <div class="heading">$/;"	function	line:16
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="heading-left">$/;"	function	line:17
+a	/Users/masaaki/daisuke-jissen/jissen.html	/^          <a href="#home">Progate School<\/a>$/;"	function	line:18
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="heading-right">$/;"	function	line:20
+ul	/Users/masaaki/daisuke-jissen/jissen.html	/^          <ul>$/;"	function	line:21
+li	/Users/masaaki/daisuke-jissen/jissen.html	/^            <li>学習言語<\/li>$/;"	function	line:22
+li	/Users/masaaki/daisuke-jissen/jissen.html	/^            <li>特徴<\/li>$/;"	function	line:23
+li	/Users/masaaki/daisuke-jissen/jissen.html	/^            <li>料金<\/li>$/;"	function	line:24
+li	/Users/masaaki/daisuke-jissen/jissen.html	/^            <li>コラム<\/li>$/;"	function	line:25
+li	/Users/masaaki/daisuke-jissen/jissen.html	/^            <li>お問い合わせ<\/li>$/;"	function	line:26
+main	/Users/masaaki/daisuke-jissen/jissen.html	/^    <main>$/;"	function	line:32
+home	/Users/masaaki/daisuke-jissen/jissen.html	/^      <a name="home"><\/a>$/;"	anchor	line:33
+a	/Users/masaaki/daisuke-jissen/jissen.html	/^      <a name="home"><\/a>$/;"	function	line:33
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^      <div class="main-top">$/;"	function	line:34
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="top-containts">$/;"	function	line:35
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="title">$/;"	function	line:36
+h	/Users/masaaki/daisuke-jissen/jissen.html	/^            <h1>プログラミングは人生を変える<\/h1>$/;"	function	line:37
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^            <p>プログラミングを学んで、楽しい自分を見つけよう。<\/p>$/;"	function	line:38
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="detail">$/;"	function	line:40
+a	/Users/masaaki/daisuke-jissen/jissen.html	/^            <a class="btn btn-top-detail">もっと詳しく<\/a>$/;"	function	line:41
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^      <div class="main-learning">$/;"	function	line:46
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="learning-message">$/;"	function	line:47
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^          <p>学習する言語<\/p>$/;"	function	line:48
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="learning-contents">$/;"	function	line:50
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="learning-content">$/;"	function	line:51
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-img">$/;"	function	line:52
+img	/Users/masaaki/daisuke-jissen/jissen.html	/^              <img src="https:\/\/s3-ap-northeast-1.amazonaws.com\/progate\/shared\/images\/lesson\/html\/practice\/lang_icons\/html.png">$/;"	function	line:53
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-title">$/;"	function	line:55
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>HTML & CSS<\/p>$/;"	function	line:56
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-message">$/;"	function	line:58
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>Webページの<br>見た目を作る言語<\/p>$/;"	function	line:59
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="learning-content">$/;"	function	line:63
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-img">$/;"	function	line:64
+img	/Users/masaaki/daisuke-jissen/jissen.html	/^              <img src="https:\/\/s3-ap-northeast-1.amazonaws.com\/progate\/shared\/images\/lesson\/html\/practice\/lang_icons\/jquery.png">$/;"	function	line:65
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-title">$/;"	function	line:67
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>jQuery<\/p>$/;"	function	line:68
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-message">$/;"	function	line:70
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>効果やアニメーションを実装できる<br>Javascriptライブラリ<\/p>$/;"	function	line:71
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="learning-content">$/;"	function	line:75
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-img">$/;"	function	line:76
+img	/Users/masaaki/daisuke-jissen/jissen.html	/^              <img src="https:\/\/s3-ap-northeast-1.amazonaws.com\/progate\/shared\/images\/lesson\/html\/practice\/lang_icons\/js.png">$/;"	function	line:77
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-title">$/;"	function	line:79
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>Javascript<\/p>$/;"	function	line:80
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-message">$/;"	function	line:82
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>動的なウェブサイト構築に用いる<br>プログラミング言語<\/p>$/;"	function	line:83
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="learning-content">$/;"	function	line:87
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-img">$/;"	function	line:88
+img	/Users/masaaki/daisuke-jissen/jissen.html	/^              <img src="https:\/\/s3-ap-northeast-1.amazonaws.com\/progate\/shared\/images\/lesson\/html\/practice\/lang_icons\/git.png">$/;"	function	line:89
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-title">$/;"	function	line:91
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>Git<\/p>$/;"	function	line:92
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-message">$/;"	function	line:94
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>ソースコードのバージョン管理、<br>共同開発を可能にするツール<\/p>$/;"	function	line:95
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^      <div class="main-point">$/;"	function	line:101
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="point">$/;"	function	line:102
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="point-message">$/;"	function	line:103
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^            <p>特徴<\/p>$/;"	function	line:104
+img	/Users/masaaki/daisuke-jissen/jissen.html	/^          <img class="mac" src="https:\/\/s3-ap-northeast-1.amazonaws.com\/progate\/shared\/images\/lesson\/html\/practice\/mac_code.png">$/;"	function	line:106
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="point-contents">$/;"	function	line:108
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="point-content">$/;"	function	line:109
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-menu">$/;"	function	line:110
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>① ProgateでWEB開発の基礎知識を身につけよう<\/p>$/;"	function	line:111
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-detail">$/;"	function	line:113
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>Progateで各コースをクリアして基礎知識を身につけましょう。それぞれ２周することによって知識を定着させます。<\/p>$/;"	function	line:114
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="point-content">$/;"	function	line:118
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-menu">$/;"	function	line:119
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^             <p>② Progateの道場で知識を習得しよう<\/p>$/;"	function	line:120
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^           <div class="content-detail">$/;"	function	line:122
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^             <p>Progateのコースで基礎知識を身につけたら、実践的な演習をこなしていきましょう。また道場では更に発展的な学習もしていきます。<\/p>$/;"	function	line:123
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="point-content">$/;"	function	line:127
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-menu">$/;"	function	line:128
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>③ 実際にプロダクトを作ってみよう<\/p>$/;"	function	line:129
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-detail">$/;"	function	line:131
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>Progateで実践的な力を身につけたら自分で１つのプロダクトを作ってみましょう。自分で１から作ってみると、意外に理解できていないことに気づくと思います。 バグを修正しながらプロダクトを完成させることで、エンジニアとしての力を磨きましょう。<\/p>$/;"	function	line:132
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="point-content">$/;"	function	line:136
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-menu">$/;"	function	line:137
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>④ エンジニアインターンを体験しよう<\/p>$/;"	function	line:138
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="content-detail">$/;"	function	line:140
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>実際に培ったスキルをインターンを通じて仕事として使ってみましょう。会社のエンジニアとともに仕事をしていくことによって、さらなるスキルアップを目指せるはずです。<\/p>$/;"	function	line:141
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="clear"><\/div>$/;"	function	line:144
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^      <div class="main-course">$/;"	function	line:148
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^        <p class="main-course-message">コースを選ぶ<\/p>$/;"	function	line:149
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="course">$/;"	function	line:151
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="course-contents">$/;"	function	line:152
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="course-content">$/;"	function	line:153
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="course-title">短期集中2週間コース<\/p>$/;"	function	line:154
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="cash">3万円<\/p>$/;"	function	line:155
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="long">期間 : 2週間<\/p>$/;"	function	line:156
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="chat">チャットでの質問 : ◯<\/p>$/;"	function	line:157
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="office">オフィスでの質問 : ◯<\/p>$/;"	function	line:158
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="btn course-enter">申し込む<\/div>$/;"	function	line:159
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="course-content">$/;"	function	line:162
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="course-title-blue">通常1ヶ月コース<\/p>$/;"	function	line:163
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="cash">5万円<\/p>$/;"	function	line:164
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="long">期間 : 1ヶ月<\/p>$/;"	function	line:165
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="chat">チャットでの質問 : ◯<\/p>$/;"	function	line:166
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="office">オフィスでの質問 : ◯<\/p>$/;"	function	line:167
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="btn course-enter">申し込む<\/div>$/;"	function	line:168
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="course-content">$/;"	function	line:171
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="course-title">土日開発2ヶ月コース<\/p>$/;"	function	line:172
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="cash">8万円<\/p>$/;"	function	line:173
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="long">期間 : 2ヶ月<\/p>$/;"	function	line:174
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="chat">チャットでの質問 : ◯<\/p>$/;"	function	line:175
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="office">オフィスでの質問 : ◯<\/p>$/;"	function	line:176
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="btn course-enter">申し込む<\/div>$/;"	function	line:177
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^      <div class="main-voice">$/;"	function	line:183
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="voice-message">$/;"	function	line:184
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^          <p>生徒の声<\/p>$/;"	function	line:185
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="voice-contents">$/;"	function	line:188
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="voice-content">$/;"	function	line:189
+img	/Users/masaaki/daisuke-jissen/jissen.html	/^            <img class="voice-img" src="https:\/\/s3-ap-northeast-1.amazonaws.com\/progate\/shared\/images\/lesson\/html\/practice\/students\/student_1.jpg">$/;"	function	line:190
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="voice-detail">$/;"	function	line:191
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>「プログラミング」の存在に気付いてからは、毎日がもっと楽しくなりました<br> -にんじゃわんこ<\/p>$/;"	function	line:192
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="voice-content">$/;"	function	line:196
+img	/Users/masaaki/daisuke-jissen/jissen.html	/^            <img class="voice-img" src="https:\/\/s3-ap-northeast-1.amazonaws.com\/progate\/shared\/images\/lesson\/html\/practice\/students\/student_2.jpg">$/;"	function	line:197
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="voice-detail">$/;"	function	line:198
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>Progateスクールは、実践的な技術に加えて、エンジニアとしての心を学べる場所です<br> -ひつじ仙人<\/p>$/;"	function	line:199
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="voice-content">$/;"	function	line:203
+img	/Users/masaaki/daisuke-jissen/jissen.html	/^            <img class="voice-img" src="https:\/\/s3-ap-northeast-1.amazonaws.com\/progate\/shared\/images\/lesson\/html\/practice\/students\/student_3.jpg">$/;"	function	line:204
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="voice-detail">$/;"	function	line:205
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>付け焼き刃ではない、「創る力」を身につけることができたと思っています<br> -ベイビーわんこ<\/p>$/;"	function	line:206
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^      <div class="main-bottom">$/;"	function	line:212
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="bottom-contents">$/;"	function	line:213
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="bottom-message">$/;"	function	line:214
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^           <p>プログラミングを学ぶのなら、生涯仕事に困らないことを私が保証しよう。<\/p>$/;"	function	line:215
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^           <p>- Facebook元社員<\/p>$/;"	function	line:216
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^      <div class="main-colum">$/;"	function	line:221
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="colum">$/;"	function	line:222
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="colum-title">$/;"	function	line:223
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^            <p>コラム<\/p>$/;"	function	line:224
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="btn-title">$/;"	function	line:226
+a	/Users/masaaki/daisuke-jissen/jissen.html	/^            <a class="btn-title-left">show all<\/a>$/;"	function	line:227
+a	/Users/masaaki/daisuke-jissen/jissen.html	/^            <a class="btn-title-center">ブログ<\/a>$/;"	function	line:228
+a	/Users/masaaki/daisuke-jissen/jissen.html	/^            <a class="btn-title-right">プログラミングTips<\/a>$/;"	function	line:229
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="colum-contents">$/;"	function	line:232
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="colum-content">$/;"	function	line:233
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="colum-img-a"><\/div>$/;"	function	line:234
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-message">プログラミングで広がる可能性<\/p>$/;"	function	line:235
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-detail">コラム<\/p>$/;"	function	line:236
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="colum-content">$/;"	function	line:239
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="colum-img-b"><\/div>$/;"	function	line:240
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-message">HTML5の新タグについて<\/p>$/;"	function	line:241
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-detail">HTML<\/p>$/;"	function	line:242
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="colum-content">$/;"	function	line:245
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="colum-img-c"><\/div>$/;"	function	line:246
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-message">Javascriptの文法まとめ<\/p>$/;"	function	line:247
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-detail">Javascript<\/p>$/;"	function	line:248
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="colum-content">$/;"	function	line:251
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="colum-img-d"><\/div>$/;"	function	line:252
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-message">プログラミングに挫折しそうになったら読むべき10冊<\/p>$/;"	function	line:253
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-detail">コラム<\/p>$/;"	function	line:254
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="colum-content">$/;"	function	line:257
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="colum-img-e"><\/div>$/;"	function	line:258
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-message">これから求められるエンジニア人材とは<\/p>$/;"	function	line:259
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-detail">コラム<\/p>$/;"	function	line:260
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="colum-content">$/;"	function	line:263
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="colum-img-f"><\/div>$/;"	function	line:264
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-message">要素の検証をしてみよう<\/p>$/;"	function	line:265
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p class="colum-detail">HTML \/ CSS<\/p>$/;"	function	line:266
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^          <div class="btn-colum-footer">$/;"	function	line:270
+a	/Users/masaaki/daisuke-jissen/jissen.html	/^            <a>Lead More<\/a>$/;"	function	line:271
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^      <div class="main-contact">$/;"	function	line:277
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="back">$/;"	function	line:278
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^         <div class="contact">$/;"	function	line:279
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="contact-tittle">$/;"	function	line:280
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^              <p>お問い合わせ<\/p>$/;"	function	line:281
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="contact-left">$/;"	function	line:284
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="left-message">$/;"	function	line:285
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^                <p>メッセージを送る<\/p>$/;"	function	line:286
+input	/Users/masaaki/daisuke-jissen/jissen.html	/^              <input class="input" placeholder="Email">$/;"	function	line:288
+input	/Users/masaaki/daisuke-jissen/jissen.html	/^              <input class="input" placeholder="Subject">$/;"	function	line:289
+textarea	/Users/masaaki/daisuke-jissen/jissen.html	/^              <textarea class="message" placeholder="Message"><\/textarea>$/;"	function	line:290
+input	/Users/masaaki/daisuke-jissen/jissen.html	/^              <input class="submit" href="#" type="submit" value="Submit">$/;"	function	line:291
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="contact-right">$/;"	function	line:293
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="right-message">$/;"	function	line:294
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^                <p>About Us<\/p>$/;"	function	line:295
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="right-detail">$/;"	function	line:297
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^                <p>プログラミングは世界を変える力です。 そしてあなたの人生を変える力です。 この信念は、私たち自身がプログラミングで人生を変えてきた原体験に基づいています。 この原体験をもとに、Progateは 「初心者から、創れる人を生み出す」 ことを理念としています。 プログラミングの最初のハードルを徹底的に低くし、世界一わかりやすく、楽しい学習環境を作ります。プログラミングを学びたい人の、せっかくの一歩を挫折で終わらせないために、私たちは全力で皆様に寄り添い、日本のプログラミング教育を変えていきます。 私たちと一緒にプログラミングを学んでみませんか？<\/p>$/;"	function	line:298
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^              <div class="company">$/;"	function	line:300
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^                <p>Address<\/p>$/;"	function	line:301
+span	/Users/masaaki/daisuke-jissen/jissen.html	/^                <span class="fa fa-map-marker">  東京都渋谷区神泉町20-24 Bricks 7F<\/span>$/;"	function	line:302
+span	/Users/masaaki/daisuke-jissen/jissen.html	/^                <span class="fa fa-phone">  Phone: 03-6455-0950<\/span>$/;"	function	line:303
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^            <div class="clear"><\/div>$/;"	function	line:306
+footer	/Users/masaaki/daisuke-jissen/jissen.html	/^    <footer>$/;"	function	line:312
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^      <div class="footer-top">$/;"	function	line:313
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^        <p>Follow Us!<\/p>$/;"	function	line:314
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="footer-logo">$/;"	function	line:315
+span	/Users/masaaki/daisuke-jissen/jissen.html	/^          <span class="fa fa-facebook"><\/span>$/;"	function	line:316
+span	/Users/masaaki/daisuke-jissen/jissen.html	/^          <span class="fa fa-twitter"><\/span>$/;"	function	line:317
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^      <div class="footer-bottom">$/;"	function	line:321
+div	/Users/masaaki/daisuke-jissen/jissen.html	/^        <div class="footer-message">$/;"	function	line:322
+p	/Users/masaaki/daisuke-jissen/jissen.html	/^          <p>©2015- Progate<\/p>$/;"	function	line:323
